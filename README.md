@@ -81,3 +81,11 @@
 
 **Допзадание**
 Перегрузите оператор сложения __add__.
+
+**Useful links: 
+
+Tech with Tim: https://www.youtube.com/watch?v=JeznW_7DlB0
+
+Python docs: https://docs.python.org/3/tutorial/classes.html
+
+https://realpython.com/python3-object-oriented-programming/
